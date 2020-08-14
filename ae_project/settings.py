@@ -33,7 +33,6 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'posts.apps.PostsConfig',
     'users.apps.UsersConfig',
-    'rooms.apps.RoomsConfig',
     'crispy_forms',
     'django.contrib.admin',
     'django.contrib.auth',
